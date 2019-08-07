@@ -9,7 +9,7 @@ ___
 
 - navigate to LakeMap directory
 
-- execute command: "dotnet run", it will be running on "http://localhost:5000"
+- execute command: `dotnet run`, it will be running on "http://localhost:5000"
 
 ___
 ### Sending requests:
@@ -32,4 +32,4 @@ ___
 
 ___
 ### Running Tests:
-- to run unit tests use the command "dotnet test"
+- to run unit tests use the command `dotnet test`
