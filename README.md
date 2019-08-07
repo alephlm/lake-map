@@ -5,25 +5,25 @@ Requirements:
 ___
 ### How to execute:
 
-- open terminal / cmd
+- Open terminal / cmd
 
-- navigate to LakeMap directory
+- Navigate to LakeMap directory
 
-- execute command: `dotnet run`, it will be running on "http://localhost:5000"
+- Execute command: `dotnet run`, it will be running on "http://localhost:5000"
 
 ___
 ### Sending requests:
-- send a POST request content type "application/json"
+- Send a POST request content type "application/json"
 with string map in the body to http://localhost:5000/api/map.
 
-- example of body :
+- Example of body :
 ```
 "OOO#
 O#O#
 OO##
 OOO#"
 ```
-- this example should return 10 as result.
+- This example should return 10 as result.
 
 ___
 ### Swagger:
@@ -32,4 +32,4 @@ ___
 
 ___
 ### Running Tests:
-- to run unit tests use the command `dotnet test`
+- To run unit tests use the command `dotnet test`
