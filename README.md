@@ -1,4 +1,4 @@
-# Water map
+# Lake map
 Requirements:
 -------------
 - [.NET Core 2.2](https://dotnet.microsoft.com/)
@@ -27,7 +27,7 @@ OOO#"
 
 ___
 ### Swagger:
-- TO access swagger UI go to http://localhost:5000/swagger
+- To access swagger UI go to http://localhost:5000/swagger
 - To access swagger api go to: http://localhost:5000/swagger/v1/swagger.json
 
 ___
